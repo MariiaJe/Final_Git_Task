@@ -1,2 +1,3 @@
 # Final_Git_Task
-The answer on final GIT task.
+Жевлакова Мария Валерьевна.
+Мои хобби это обучение, спорт и котики:)
